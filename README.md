@@ -1,5 +1,8 @@
-# number-range package
+Number-Range
+============
 
-A short description of your package.
+ Number-Range is an Atom package that allows you to hold down the numbers in your text editor and increase and decrease them with the movement of your mouse.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+#### License
+
+This package is licensed under the terms of MIT License, see the LICENSE file for more info.
