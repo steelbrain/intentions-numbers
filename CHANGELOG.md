@@ -1,6 +1,10 @@
+#### 0.1.4
+
+* Round numbers if they don't have a decimal point
+
 #### 0.1.3
 
-Number-Range now only takes a single entry in the editor transaction history for each committed change
+* Number-Range now only takes a single entry in the editor transaction history for each committed change
 
 #### 0.1.2
 
