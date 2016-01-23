@@ -1,3 +1,7 @@
+#### 0.1.3
+
+Number-Range now only takes a single entry in the editor transaction history for each committed change
+
 #### 0.1.2
 
 * Fix the bug causing NaN in text editor
