@@ -1,3 +1,7 @@
+### Upcoming
+
+* Underline range selectors
+
 #### 0.1.5
 
 * Change cursor icon when in use
