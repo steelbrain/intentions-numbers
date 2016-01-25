@@ -1,3 +1,7 @@
+#### 0.1.5
+
+* Change cursor icon when in use
+
 #### 0.1.4
 
 * Round numbers if they don't have a decimal point
