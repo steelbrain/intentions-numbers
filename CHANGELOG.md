@@ -1,6 +1,7 @@
 ### Upcoming
 
 * Underline range selectors
+* Number-Range now automatically detects font size and should work with bigger font size users
 
 #### 0.1.5
 
