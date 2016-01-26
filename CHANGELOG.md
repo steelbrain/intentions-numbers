@@ -1,6 +1,6 @@
 ### 0.2.3
 
-* Reduce debounce to 16 seconds
+* Reduce debounce to 16 miliseconds
 
 ### 0.2.2
 
