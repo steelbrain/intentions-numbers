@@ -1,3 +1,7 @@
+### 0.1.7
+
+* Use an efficient history management approach
+
 ### 0.1.6
 
 * Underline range selectors
