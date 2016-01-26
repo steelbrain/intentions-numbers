@@ -1,3 +1,7 @@
+### 0.2.1
+
+* Ignore hex colors
+
 ### 0.2.0
 
 * Add `requireKeyPress` config
