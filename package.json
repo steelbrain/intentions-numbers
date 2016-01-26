@@ -1,7 +1,7 @@
 {
   "name": "number-range",
   "main": "./lib/index",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "A package that allows you to hold numbers in text editor and increase/decrease them on mouse move",
   "keywords": [],
   "repository": "https://github.com/steelbrain/number-range",
