@@ -1,3 +1,7 @@
+### 0.2.6
+
+* Only accept numbers with a space in front of them
+
 ### 0.2.5
 
 * Fix invalid top offset
