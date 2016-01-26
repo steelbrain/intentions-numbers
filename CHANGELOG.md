@@ -1,3 +1,7 @@
+### 0.2.7
+
+* Divide number by 600 instead of 200
+
 ### 0.2.6
 
 * Only accept numbers with a space in front of them
