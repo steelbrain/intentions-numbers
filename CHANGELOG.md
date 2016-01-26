@@ -1,3 +1,7 @@
+### 0.2.3
+
+* Reduce debounce to 16 seconds
+
 ### 0.2.2
 
 * Show same icon for resize on both sides (#6)
