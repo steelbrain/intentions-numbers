@@ -1,3 +1,7 @@
+### Upcoming
+
+* Show same icon for resize on both sides (#6)
+
 ### 0.2.1
 
 * Ignore hex colors
