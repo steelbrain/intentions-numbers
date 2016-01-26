@@ -1,3 +1,7 @@
+### 0.2.5
+
+* Fix invalid top offset
+
 ### 0.2.4
 
 * Disallow html tags in regex
