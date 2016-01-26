@@ -1,3 +1,7 @@
+### 0.2.8
+
+* Fix flickering when updating markers
+
 ### 0.2.7
 
 * Divide number by 600 instead of 200
