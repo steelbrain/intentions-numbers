@@ -1,3 +1,7 @@
+### 0.2.0
+
+* Add `requireKeyPress` config
+
 ### 0.1.7
 
 * Use an efficient history management approach
