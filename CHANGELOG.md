@@ -1,6 +1,7 @@
-### Upcoming
+### 0.2.2
 
 * Show same icon for resize on both sides (#6)
+* Fix wrong offset of underlines
 
 ### 0.2.1
 
