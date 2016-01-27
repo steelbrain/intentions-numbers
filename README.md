@@ -5,9 +5,7 @@ Number-Range
 
 #### Usage
 
-You can enable/disable `requireKeyPress` configuration to make `number-range` only show the markers when hotkey is pressed.
-
-Hotkey is alt/option for OSX and ctrl for all the other OSes
+Hotkey is alt/option for OSX and ctrl for all the other OSes. Press it, then drag any number to increase or decrease.
 
 #### License
 
