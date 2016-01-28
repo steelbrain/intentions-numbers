@@ -1,3 +1,10 @@
+### 0.2.9
+
+* Remove config to disable without keypress
+* Rewrite the implementation to involve DOM search
+* Make the experience smoother
+* Handle zero increase ratio properly
+
 ### 0.2.8
 
 * Fix flickering when updating markers
