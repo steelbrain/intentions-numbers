@@ -1,3 +1,8 @@
+### 0.2.10
+
+* Handle zero numbers properly
+* Make it faster (divide mouse move diff by 300 instead of 600)
+
 ### 0.2.9
 
 * Remove config to disable without keypress
