@@ -1,10 +1,10 @@
 {
-  "name": "number-range",
+  "name": "intentions-numbers",
   "main": "./lib/index",
   "version": "0.2.10",
   "description": "A package that allows you to hold numbers in text editor and increase/decrease them on mouse move",
   "keywords": [],
-  "repository": "https://github.com/steelbrain/number-range",
+  "repository": "https://github.com/steelbrain/intentions-numbers",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
