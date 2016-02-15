@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Fix for fonts using ligatures
+
 ## 1.0.0
 
 * Major cleanup
