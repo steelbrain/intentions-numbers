@@ -1,6 +1,6 @@
 {
   "name": "intentions-numbers",
-  "main": "./lib/index",
+  "main": "./lib/index.js",
   "version": "1.0.0",
   "description": "A package that allows you to hold numbers in text editor and increase/decrease them on mouse move",
   "keywords": [],
