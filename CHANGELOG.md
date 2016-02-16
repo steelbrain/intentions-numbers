@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Bump `atom-package-deps` version
+
 ## 1.0.1
 
 * Fix for fonts using ligatures
