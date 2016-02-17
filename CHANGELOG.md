@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Upgrade to latest `intentions` package behavior
+
 ## 1.0.3
 
 * Allow number dragging even when cursor is outside window
