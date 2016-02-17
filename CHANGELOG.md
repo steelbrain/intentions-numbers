@@ -1,3 +1,7 @@
+## 1.0.3
+
+* Allow number dragging even when cursor is outside window
+
 ## 1.0.2
 
 * Bump `atom-package-deps` version
