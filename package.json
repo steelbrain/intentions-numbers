@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "atom-package-deps": "^4.0.0",
+    "disposable-event": "^1.0.0",
     "sb-debounce": "^1.0.1"
   },
   "package-deps": [
